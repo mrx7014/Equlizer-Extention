@@ -2,8 +2,6 @@
 
 ![Equalizer Extension logo](assets/logo.png)
 
-![Equalizer Extension banner](assets/banner.png)
-
 A lightweight Chrome/Chromium extension that adds real-time echo, reverb, and bass controls to YouTube videos.
 
 ## Features
